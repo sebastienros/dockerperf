@@ -1,0 +1,12 @@
+{
+  "Default": {
+    "Source": {
+      "Repository": "https://github.com/sebastienros/dockerperf",
+      "BranchOrCommit": "master",
+      "DockerFile": "Dockerfile",
+      "DockerImageName": "fockerperf",
+      "DockerContextDirectory": ""
+    },
+    "Client": "None"
+  }
+}
